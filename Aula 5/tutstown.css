@@ -1,0 +1,29 @@
+body{
+	font-family: arial;
+	font-size: 20pt;
+	background-color: beige;
+	color: orangered;
+	text-align: center;
+}
+
+h1{
+	font-size: 60pt;
+	color: darkblue;
+	text-align: center;
+}
+
+h2{
+	font-size: 40pt;
+	color: darkblue;
+	text-align: center;
+}
+
+
+
+h3{
+	font-size: 30pt;
+	color: white;
+	text-align: center;
+	background-color:orange;
+	padding: 20pt;
+}
